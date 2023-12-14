@@ -28,7 +28,7 @@
 
 ### Description:
 
-A collection of Python scripts that I have developed to automate various tasks, such as:
+> A collection of Python scripts that I have developed to automate various tasks, such as:
 Combining data from multiple CSV files, Converting CSV files to Excel, Obtaining data from APIS, generating visualizations, etc.
 All scripts are in the same folder with a descriptive name that indicates their function. Some are Jupyter notebooks, while others are .py files.
 
