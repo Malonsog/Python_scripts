@@ -1,6 +1,8 @@
-## Scripts de Python / Python Scripts
+# Scripts de Python / Python Scripts
+##
 
-
+---
+## 🇪🇸 Español:
 ### Descripción:
 
 > Colección de scripts que he ido realizando para automatizar distintas tareas, como unir datos de distintos CSV, pasar CSV a excel, obtener datos o generar visualizaciones. Todos los scripts están en la misma carpeta con un nombre descriptivo según su función, algunos son Jupyter notebooks y otros archivos .py.
@@ -18,14 +20,10 @@
 2. Instala dependencias (si es necesario): `pip install -r requirements.txt`.
 3. Cualquier comentario o colaboración siempre serán bienvenidos.
 
+#
 
 ---
-
-**English:**
-
-## Python Scripts
-
-
+## 🇺🇸 English
 ### Description:
 
 > A collection of Python scripts that I have developed to automate various tasks, such as:
