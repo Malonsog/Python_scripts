@@ -19,8 +19,6 @@
 2. Instala dependencias (si es necesario): `pip install -r requirements.txt`.
 3. Cualquier comentario o colaboración siempre serán bienvenidos.
 
-#
-
 ---
 ## 🇺🇸 English
 ### Description:
